@@ -1,10 +1,10 @@
 # password-generator-js
 
-##Objective
+## Objective
 * To create a password generator in JavaScript
 * Must be able to contain uppercase and lowercase letters
 * Must be able to contain special characters
 
-##Requirements
+## Requirements
 * Use screen prompts 
 * The user decides what kind of password
