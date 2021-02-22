@@ -8,3 +8,4 @@
 ## Requirements
 * Use screen prompts 
 * The user decides what kind of password
+https://drewmax.github.io/password-generator-js/
